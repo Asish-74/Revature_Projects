@@ -1,8 +1,0 @@
-+-------+--------+----------+------+----------+
-|emp_id |emp_name|department|salary|location  |
-+-------+--------+----------+------+----------+
-|101    |Amit    |HR        |45000 |Bangalore |
-|102    |Riya    |IT        |60000 |Hyderabad |
-|103    |John    |Finance   |55000 |Delhi     |
-|104    |Sneha   |Marketing |50000 |Mumbai    |
-+-------+--------+----------+------+----------+
